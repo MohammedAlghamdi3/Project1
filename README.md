@@ -19,7 +19,14 @@ Human versus Human:
 You just need to type your name and name your friend and press the button and start playing
 
 
+### Homepage
+![](./Screenshots/1.jpg)
 
-frist indes
+### Game
+![](./Screenshots/2.png)
+
+
+![](./Screenshots/3.jpg)
+
 
 
